@@ -20,7 +20,7 @@ install_jq() {
 }
 install_jq
 
-# GitLab API endpoint
+# github API endpoint
 GITHUB_API="https://api.github.com/user/repos"
 GITHUB_USERNAME=$GITHUB_USERNAME
 
